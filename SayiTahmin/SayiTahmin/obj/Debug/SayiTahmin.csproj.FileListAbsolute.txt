@@ -1,0 +1,11 @@
+C:\Users\Acer\source\repos\SayiTahmin\SayiTahmin\bin\Debug\SayiTahmin.exe.config
+C:\Users\Acer\source\repos\SayiTahmin\SayiTahmin\bin\Debug\SayiTahmin.exe
+C:\Users\Acer\source\repos\SayiTahmin\SayiTahmin\bin\Debug\SayiTahmin.pdb
+C:\Users\Acer\source\repos\SayiTahmin\SayiTahmin\obj\Debug\SayiTahmin.csprojResolveAssemblyReference.cache
+C:\Users\Acer\source\repos\SayiTahmin\SayiTahmin\obj\Debug\SayiTahmin.Form1.resources
+C:\Users\Acer\source\repos\SayiTahmin\SayiTahmin\obj\Debug\SayiTahmin.Properties.Resources.resources
+C:\Users\Acer\source\repos\SayiTahmin\SayiTahmin\obj\Debug\SayiTahmin.csproj.GenerateResource.Cache
+C:\Users\Acer\source\repos\SayiTahmin\SayiTahmin\obj\Debug\SayiTahmin.csproj.CoreCompileInputs.cache
+C:\Users\Acer\source\repos\SayiTahmin\SayiTahmin\obj\Debug\SayiTahmin.exe
+C:\Users\Acer\source\repos\SayiTahmin\SayiTahmin\obj\Debug\SayiTahmin.pdb
+C:\Users\Acer\source\repos\SayiTahmin\SayiTahmin\obj\Debug\SayiTahmin.Form2.resources
